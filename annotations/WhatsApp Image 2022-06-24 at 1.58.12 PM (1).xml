@@ -1,0 +1,50 @@
+<annotation>
+	<folder>images</folder>
+	<filename>WhatsApp Image 2022-06-24 at 1.58.12 PM (1).jpeg</filename>
+	<path>/home/preeti/DLRV/set2-20220624T170847Z-001/images/WhatsApp Image 2022-06-24 at 1.58.12 PM (1).jpeg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>640</width>
+		<height>480</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>025_mug</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>104</xmin>
+			<ymin>216</ymin>
+			<xmax>213</xmax>
+			<ymax>347</ymax>
+		</bndbox>
+	</object>
+	<object>
+		<name>057_racquetball</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>280</xmin>
+			<ymin>184</ymin>
+			<xmax>362</xmax>
+			<ymax>270</ymax>
+		</bndbox>
+	</object>
+	<object>
+		<name>005_tomato_soup_can</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>389</xmin>
+			<ymin>238</ymin>
+			<xmax>497</xmax>
+			<ymax>395</ymax>
+		</bndbox>
+	</object>
+</annotation>

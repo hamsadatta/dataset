@@ -1,0 +1,50 @@
+<annotation>
+	<folder>images</folder>
+	<filename>WhatsApp Image 2022-06-24 at 12.36.13 PM (1).jpeg</filename>
+	<path>/home/preeti/DLRV/set2-20220624T170847Z-001/images/WhatsApp Image 2022-06-24 at 12.36.13 PM (1).jpeg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>640</width>
+		<height>288</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>004_sugar_box</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>153</xmin>
+			<ymin>168</ymin>
+			<xmax>247</xmax>
+			<ymax>273</ymax>
+		</bndbox>
+	</object>
+	<object>
+		<name>012_strawberry</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>190</xmin>
+			<ymin>74</ymin>
+			<xmax>224</xmax>
+			<ymax>114</ymax>
+		</bndbox>
+	</object>
+	<object>
+		<name>019_pitcher_base</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>262</xmin>
+			<ymin>14</ymin>
+			<xmax>413</xmax>
+			<ymax>186</ymax>
+		</bndbox>
+	</object>
+</annotation>
